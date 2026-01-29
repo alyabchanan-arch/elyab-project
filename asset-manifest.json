@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elyab-project/static/css/main.c200b9ee.css",
+    "main.js": "/elyab-project/static/js/main.f105296d.js",
+    "static/js/453.e130b24d.chunk.js": "/elyab-project/static/js/453.e130b24d.chunk.js",
+    "index.html": "/elyab-project/index.html",
+    "main.c200b9ee.css.map": "/elyab-project/static/css/main.c200b9ee.css.map",
+    "main.f105296d.js.map": "/elyab-project/static/js/main.f105296d.js.map",
+    "453.e130b24d.chunk.js.map": "/elyab-project/static/js/453.e130b24d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c200b9ee.css",
+    "static/js/main.f105296d.js"
+  ]
+}
